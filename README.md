@@ -36,7 +36,9 @@ Brad Traversy
 This project is licensed under the MIT License
 
 
-#the css used in the video
+## The CSS used in the video
+
+```css
 div.container {
   max-width: 800px;
   margin: 0 auto;
@@ -70,3 +72,4 @@ p.text {
   font-weight: 700;
   margin-bottom: 0;
 }
+```
